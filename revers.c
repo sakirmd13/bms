@@ -13,4 +13,5 @@ int main()
     {
         printf("%c", str[i]);
     }
+    return 0;
 }
